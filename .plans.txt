@@ -1,0 +1,5 @@
+Matricas
+
+
+- Ispolzovatj formulu Kramera
+- Elementarnie preobrazovanija nad matricami
